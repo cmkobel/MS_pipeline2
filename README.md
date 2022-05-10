@@ -2,7 +2,7 @@
 
 
 
-Fragpipe reminds me of a lego set I got when I was a kid that did not come with a manual on how to assemble it. Here I'm trying to make my own manual in the form of a snakemake pipeline.
+Fragpipe reminds me of a lego set I got when I was a kid, that did not come with a manual on how to assemble it. Here I'm trying to make my own manual in the form of a snakemake pipeline.
 
 
 ```
