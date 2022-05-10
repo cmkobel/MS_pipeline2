@@ -1,4 +1,4 @@
-# MS_pipeline1
+# MS_pipeline2
 
 
 
@@ -81,4 +81,3 @@ This pipeline might involve an R-markdown performing trivial QC.
 
 
 
-# MS_pipeline2
